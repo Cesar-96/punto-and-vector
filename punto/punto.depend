@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1568817551 source:d:\pablo yucra\punto\punto\main.cpp
+	<iostream>
+	<punto.h>
+	<Vector.h>
+
+1568815063 d:\pablo yucra\punto\punto\include\punto.h
+
+1568816905 source:d:\pablo yucra\punto\punto\src\punto.cpp
+	<iostream>
+	"punto.h"
+
+1568817257 d:\pablo yucra\punto\punto\include\vector.h
+	"punto.h"
+
+1568817570 source:d:\pablo yucra\punto\punto\src\vector.cpp
+	<iostream>
+	"Vector.h"
+
